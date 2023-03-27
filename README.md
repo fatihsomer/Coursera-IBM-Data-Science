@@ -1,2 +1,2 @@
-# Coursera IBM Data Science Professional Course
+# Coursera - IBM Data Science Professional - Course
 > Labs
